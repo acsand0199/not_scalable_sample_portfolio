@@ -1,0 +1,30 @@
+.center-fit {
+    background-image: url(/images/mountains.jpg);
+    background-size: cover; /* This will make the image fit within the element without cropping */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    background-attachment: fixed; /* Optional: Keeps the background fixed while scrolling */
+    }
+.transparent-box {
+    background-color: rgba(239, 239, 240, 0.4); /* Red color with 50% opacity */
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+    margin-top: 15%;
+    margin-left: 35%;
+    border-radius: 20px;
+    font-family: 'Dancing Script', cursive;
+    text-align: right;
+    font-size: 20px;
+    }
+.austin-img {
+    width: 50% ; 
+    margin-right: 50%;
+    margin-top:-65%;
+    border-radius: 20px;
+    opacity: .8;
+ }
+ .nav-bar {
+    position: relative;
+    padding-top: 8%;
+ }
+
